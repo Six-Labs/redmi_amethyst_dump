@@ -1,0 +1,14 @@
+# missi-user 16 BP2A.250605.031.A3 OS3.0.4.0.WOPMIXM release-keys
+- manufacturer: xiaomi
+- platform: volcano
+- codename: amethyst
+- flavor: missi-user
+- release: 16
+- id: BP2A.250605.031.A3
+- incremental: OS3.0.4.0.WOPMIXM
+- tags: release-keys
+- fingerprint: Redmi/amethyst_global/amethyst:14/UKQ1.240624.001/OS3.0.4.0.WOPMIXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: missi-user-16-BP2A.250605.031.A3-OS3.0.4.0.WOPMIXM-release-keys
+- repo: redmi_amethyst_dump
